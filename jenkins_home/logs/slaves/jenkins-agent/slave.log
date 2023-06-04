@@ -1,0 +1,8 @@
+SSHLauncher{host='jenkins-agent', port=16, credentialsId='saimadhav', jvmOptions='', javaPath='', prefixStartSlaveCmd='', suffixStartSlaveCmd='', launchTimeoutSeconds=60, maxNumRetries=10, retryWaitTime=15, sshHostKeyVerificationStrategy=hudson.plugins.sshslaves.verifiers.NonVerifyingKeyVerificationStrategy, tcpNoDelay=true, trackCredentials=true}
+[06/04/23 14:35:34] [SSH] Opening SSH connection to jenkins-agent:16.
+Connection refused (Connection refused)
+SSH Connection failed with IOException: "Connection refused (Connection refused)", retrying in 15 seconds. There are 10 more retries left.
+Connection refused (Connection refused)
+SSH Connection failed with IOException: "Connection refused (Connection refused)", retrying in 15 seconds. There are 9 more retries left.
+Connection refused (Connection refused)
+SSH Connection failed with IOException: "Connection refused (Connection refused)", retrying in 15 seconds. There are 8 more retries left.
