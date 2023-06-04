@@ -1,7 +1,0 @@
-Started by user [8mha:////4D0Xaoml8M3TXB356Oc1e4m5f8oMEenLhfXifbJSuXn5AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/My First Job
-[My First Job] $ /bin/sh -xe /tmp/jenkins16656856123405087750.sh
-+ echo Hello from my first jenkins job!
-Hello from my first jenkins job!
-Finished: SUCCESS

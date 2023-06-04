@@ -1,10 +1,14 @@
 pipeline{
     agent any
     stages {
-        stage('Python Version'){
+        stage('Java Version'){
             steps{
-                    sh 'python --version'
-                
+                    sh 'java --version'
+            }
+        }
+        stage('whoami Command'){
+            steps{
+                    echo whoami
             }
         }
     }
