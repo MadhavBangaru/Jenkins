@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  jenkins:
+    container_name: jenkins
+    image: jenkins/jenkins
+    ports:
+      - "8080:8080"
+      - "50000:50000"
+    restart: on-failure
+    volumes:
+      - ./jenkins_home:/var/jenkins_home
